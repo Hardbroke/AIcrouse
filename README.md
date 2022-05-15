@@ -188,6 +188,7 @@ addEventListener(
 ```
 
 ### 原作者项目地址：https://github.com/mixool/xrayku
+### 二次编译作者项目地址：https://github.com/DaoChen6/IF-XTW
 
 # 鸣谢
 

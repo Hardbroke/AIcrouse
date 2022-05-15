@@ -187,16 +187,6 @@ addEventListener(
 )
 ```
 
-### 原作者项目地址：https://github.com/mixool/xrayku
-### 二次编译作者项目地址：https://github.com/DaoChen6/IF-XTW
+### 原作者项目地址：https://github.com/DaoChen6/IF-XTW
 
-# 鸣谢
 
-- [Xrayku](https://github.com/mixool/xrayku)
-- [Project V](https://github.com/v2fly/v2ray-core.git)
-- [Project X](https://github.com/XTLS/Xray-core.git)
-- [HeroKu](https://heroku.com)
-- [heroku-vless](https://github.com/DanyTPG/heroku-vless.git)
-- [Better Cloudflare IP](https://github.com/badafans/better-cloudflare-ip.git)
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest.git)
-- [CloudflarespeedTest-Rust](https://github.com/lixiang810/CloudflareSpeedTest-Rust.git)
